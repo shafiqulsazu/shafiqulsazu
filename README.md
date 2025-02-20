@@ -22,4 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiqulsazu&show_icons=true&locale=en&layout=compact" alt="shafiqulsazu" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafiqulsazu&" alt="shafiqulsazu" /></p>
+
